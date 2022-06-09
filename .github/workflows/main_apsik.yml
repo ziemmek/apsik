@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'apsik'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_40C1B8EC4A994CA4BD1AD08799368023 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_83F7A22FD07E4974A10BEAD8282BCC50 }}
